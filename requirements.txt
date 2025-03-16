@@ -1,0 +1,4 @@
+tiktoken
+argparse
+deepseek
+transformers
